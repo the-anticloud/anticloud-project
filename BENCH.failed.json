@@ -1,0 +1,10 @@
+{
+  "project": "PROJECT",
+  "category": "MEDICAL_HEALTH",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\MEDICAL_HEALTH\\PROJECT",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head=None; sanitized clone or .git absent)",
+  "files_count": 322,
+  "lines_of_code": 34639,
+  "sha": null
+}
